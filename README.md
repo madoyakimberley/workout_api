@@ -54,14 +54,15 @@ flask run
 
 ## Project Structure
 
+```text
 workout-api/
-│── app.py
-│── models.py
-│── schemas.py
-│── seed.py
-│── Pipfile
-│── migrations/
-
+├── migrations/
+├── app.py
+├── models.py
+├── schemas.py
+├── seed.py
+└── Pipfile
+```
 ---
 
 ## Dependencies
